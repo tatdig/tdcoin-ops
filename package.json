@@ -1,17 +1,17 @@
 {
-  "name": "bitcoin-ops",
+  "name": "tdcoin-ops",
   "version": "1.4.1",
-  "description": "bitcoin OP codes",
+  "description": "tdcoin OP codes",
   "author": "Daniel Cousens",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoin-ops.git"
+    "url": "https://github.com/tdcoinjs/tdcoin-ops.git"
   },
   "bugs": {
-    "url": "https://github.com/bitcoinjs/bitcoin-ops/issues"
+    "url": "https://github.com/tdcoinjs/tdcoin-ops/issues"
   },
-  "homepage": "https://github.com/bitcoinjs/bitcoin-ops",
+  "homepage": "https://github.com/tdcoinjs/tdcoin-ops",
   "keywords": [
     "opcodes",
     "ops",
