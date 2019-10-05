@@ -3,20 +3,21 @@
   "version": "1.4.1",
   "description": "tdcoin OP codes",
   "author": "Daniel Cousens",
+  "co-author": "Ayrat V",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tdcoinjs/tdcoin-ops.git"
+    "url": "https://github.com/tatdig/tdcoin-ops.git"
   },
   "bugs": {
-    "url": "https://github.com/tdcoinjs/tdcoin-ops/issues"
+    "url": "https://github.com/tatdig/tdcoin-ops/issues"
   },
-  "homepage": "https://github.com/tdcoinjs/tdcoin-ops",
+  "homepage": "https://github.com/tatdig/tdcoin-ops",
   "keywords": [
     "opcodes",
     "ops",
-    "bitcoin-ops",
-    "bitcoin"
+    "tdcoin-ops",
+    "tdcoin"
   ],
   "files": [
     "index.json",
